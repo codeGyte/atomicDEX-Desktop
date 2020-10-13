@@ -1211,7 +1211,7 @@
   "ZILLA": {
     "coin": "ZILLA",
     "name": "ChainZilla",
-    "coinpaprika_id": "zilla-chainzilla",
+    "coinpaprika_id": "test-coin",
     "coingecko_id": "test-coin",
     "electrum": [
       {
