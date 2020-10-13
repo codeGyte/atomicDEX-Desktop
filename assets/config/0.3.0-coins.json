@@ -970,7 +970,7 @@
   "NAV": {
     "coin": "NAV",
     "name": "NavCoin",
-    "coingecko_id": "navcoin",
+    "coingecko_id": "nav-coin",
     "coinpaprika_id": "nav-navcoin",
     "electrum": [
       {
