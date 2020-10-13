@@ -221,7 +221,7 @@
     "active": false,
     "coin": "DASH",
     "name": "Dash",
-    "coingecko_id": "bitcoin",
+    "coingecko_id": "dash",
     "coinpaprika_id": "dash-dash",
     "currently_enabled": false,
     "electrum": [
@@ -245,6 +245,7 @@
     "active": false,
     "coin": "DGB",
     "name": "DigiByte",
+    "coingecko_id": "digibyte",
     "coinpaprika_id": "dgb-digibyte",
     "currently_enabled": false,
     "electrum": [
@@ -266,6 +267,7 @@
   "DOGE": {
     "coin": "DOGE",
     "name": "Dogecoin",
+    "coingecko_id": "dogecoin",
     "coinpaprika_id": "doge-dogecoin",
     "electrum": [
       {
@@ -336,6 +338,7 @@
   "FTC": {
     "coin": "FTC",
     "name": "Feathercoin",
+    "coingecko_id": "feathercoin",
     "coinpaprika_id": "ftc-feathercoin",
     "electrum": [
       {
@@ -570,7 +573,7 @@
   "AWC": {
     "active": false,
     "coin": "AWC",
-    "coingecko_id": "awc",
+    "coingecko_id": "atomic-wallet-coin",
     "coinpaprika_id": "awc-atomic-wallet-coin",
     "currently_enabled": false,
     "eth_nodes": [
@@ -587,6 +590,7 @@
   "BAT": {
     "coin": "BAT",
     "name": "Basic Attention Token",
+    "coingecko_id": "basic-attention-token",
     "coinpaprika_id": "bat-basic-attention-token",
     "eth_nodes": [
       "http://eth1.cipig.net:8555",
@@ -603,7 +607,7 @@
   "TUSD": {
     "active": false,
     "coin": "TUSD",
-    "coingecko_id": "tusd",
+    "coingecko_id": "true-usd",
     "coinpaprika_id": "tusd-trueusd",
     "currently_enabled": false,
     "eth_nodes": [
@@ -833,7 +837,7 @@
     "type": "UTXO",
     "name": "Chips",
     "coingecko_id": "test-coin",
-    "coinpaprika_id": "chips-chips",
+    "coinpaprika_id": "test-coin",
     "electrum": [
       {
         "url": "electrum3.cipig.net:10053"
@@ -966,6 +970,7 @@
   "NAV": {
     "coin": "NAV",
     "name": "NavCoin",
+    "coingecko_id": "navcoin",
     "coinpaprika_id": "nav-navcoin",
     "electrum": [
       {
@@ -1011,6 +1016,7 @@
   "QTUM": {
     "coin": "QTUM",
     "name": "Qtum",
+    "coingecko_id": "qtum",
     "coinpaprika_id": "qtum-qtum",
     "electrum": [
       {
@@ -1033,6 +1039,7 @@
   "RVN": {
     "coin": "RVN",
     "name": "Ravencoin",
+    "coingecko_id": "ravencoin",
     "coinpaprika_id": "rvn-ravencoin",
     "electrum": [
       {
@@ -1135,6 +1142,7 @@
   "XZC": {
     "coin": "XZC",
     "name": "Zcoin",
+    "coingecko_id": "zcoin",
     "coinpaprika_id": "xzc-zcoin",
     "electrum": [
       {
@@ -1158,6 +1166,7 @@
     "active": false,
     "coin": "ZEC",
     "name": "Zcash",
+    "coingecko_id": "zcash",
     "coinpaprika_id": "zec-zcash",
     "currently_enabled": false,
     "electrum": [
