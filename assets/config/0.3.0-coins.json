@@ -1294,8 +1294,7 @@
     ],
     "name": "QRC20 (testnet)",
     "type": "QRC-20"
-  }
-},
+ },
  "tQTUM": {
     "need_electrum": true,
     "is_testnet": true,
