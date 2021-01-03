@@ -1106,10 +1106,10 @@
     "coingecko_id": "hempcoin-thc",
     "electrum": [
       {
-        "url": "165.22.52.123:10022"
+        "url": "1.eu.thc.electrum.dexstats.info:10020"
       },
       {
-        "url": "157.230.45.184:10022"
+        "url": "2.eu.thc.electrum.dexstats.info:10020"
       }
     ],
     "explorer_url": [
